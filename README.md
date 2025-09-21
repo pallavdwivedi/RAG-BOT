@@ -32,5 +32,5 @@ Data Flow
 -Generation: Context + Query → LLM → Grounded Response
 
 
-![Alt Text](preview_chat.jpg)
+![Alt Text](preview_chat.png)
 
