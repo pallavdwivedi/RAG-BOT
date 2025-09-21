@@ -30,3 +30,7 @@ Data Flow
 -Retrieval: Query → Query Embedding → Similarity Search → Top-K Documents
 
 -Generation: Context + Query → LLM → Grounded Response
+
+
+![Alt Text](preview_chat.jpg)
+
